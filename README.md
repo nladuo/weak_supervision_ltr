@@ -121,7 +121,7 @@ python extract_pairwise_data.py
 #### 2.3 Get ReRank List when Training Evaluation
 ```
 cd data_preprocess
-get_list_to_re-rank.py
+python get_list_to_re-rank.py
 ```
 
 
