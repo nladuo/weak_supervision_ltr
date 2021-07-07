@@ -1,0 +1,7 @@
+pymongo
+bs4
+elasticsearch==6.0.0
+nltk
+torch
+transformers
+numpy
