@@ -8,11 +8,7 @@ my implementation of [Neural Ranking Models with Weak Supervision](https://arxiv
 
 
 ## Experiment Result on Robust04
-| Model | MAP@1000 | P@20 | NDCG@20 |
-| :------| ------: | ------: |
-| BM25 | 0.2557 | 0.3357 |0.4175|
-| Bert-Base default | 0.26139 | 0.3551 | 0.434792|
-
+![](result.png)
 ## Implementation Detail
 ### 1. Data Preprocess
 insert data into mongodb
